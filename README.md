@@ -4,3 +4,4 @@
 1. [Работа с удалённым репозиторием через GitHub] (remote/README.md)
 1. [Командная работа с Git & GitHub](team/README.md)
 1. [Командная работа с Git & GitHub. Часть 2](team-2/README.md)
+   🔥
